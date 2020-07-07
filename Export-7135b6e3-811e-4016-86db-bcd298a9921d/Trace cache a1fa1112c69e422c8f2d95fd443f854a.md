@@ -16,7 +16,7 @@
 # Idea presented by paper
 
 - Increase number of predictions every cycle (Branch Throughput)
-- Add an extra cache which stores already fetched blocks from non contiguous locations in each line .... N instructions / M blocks
+- Add an extra cache which stores already fetched blocks from non contiguous locations in each line (Non contiguous access)
 - Negligible impact to conventional cache fetch latency and prediction penalty (Fetch Unit Latency)
 - Trace cache stores dynamic sequences instead of trying to find and fetch them hence it doesn't add to critical path because in case of miss conventional cache is used.
 
