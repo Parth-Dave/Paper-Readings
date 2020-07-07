@@ -1,6 +1,6 @@
 # Trace cache
 
-[](http://www.eecs.harvard.edu/cs146-246/micro.trace-cache.pdf)
+[Trace Cache paper](http://www.eecs.harvard.edu/cs146-246/micro.trace-cache.pdf)
 
 # Problem
 
